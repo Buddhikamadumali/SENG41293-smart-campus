@@ -1,0 +1,83 @@
+{
+  "schedules": [
+    {
+      "id": "1",
+      "day": "Monday",
+      "subject": "Mobile Web Application Development",
+      "time": "08:00 - 10:00",
+      "venue": "Lab 03",
+      "lecturer": "Dr. Perera"
+    },
+    {
+      "id": "2",
+      "day": "Monday",
+      "subject": "Distributed and Cloud Computing",
+      "time": "10:00 - 12:00",
+      "venue": "Hall A",
+      "lecturer": "Dr. Silva"
+    },
+    {
+      "id": "3",
+      "day": "Tuesday",
+      "subject": "Big Data Infrastructure",
+      "time": "09:00 - 11:00",
+      "venue": "Lab 01",
+      "lecturer": "Dr. Fernando"
+    },
+    {
+      "id": "4",
+      "day": "Wednesday",
+      "subject": "Software Evolution",
+      "time": "13:00 - 15:00",
+      "venue": "Hall B",
+      "lecturer": "Dr. Jayasinghe"
+    },
+    {
+      "id": "5",
+      "day": "Thursday",
+      "subject": "Advanced Web Applications Development",
+      "time": "08:00 - 10:00",
+      "venue": "Lab 02",
+      "lecturer": "Dr. Rathnayake"
+    },
+    {
+      "id": "6",
+      "day": "Friday",
+      "subject": "Software Metrics and Measurements",
+      "time": "10:00 - 12:00",
+      "venue": "Hall C",
+      "lecturer": "Dr. Bandara"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "2",
+      "title": "MapReduce Implementation",
+      "subject": "Big Data Infrastructure",
+      "dueDate": "2026-06-28",
+      "status": "completed"
+    },
+    {
+      "title": "Assignment 01",
+      "subject": "Mobile Web Application Development",
+      "dueDate": "2026-06-26",
+      "status": "completed",
+      "id": "Pb6gG21sy88"
+    },
+    {
+      "title": "test",
+      "subject": "Big Data Infrastructure",
+      "dueDate": "2026-06-27",
+      "status": "pending",
+      "id": "z0ZL1EAYuHo"
+    },
+    {
+      "title": "test",
+      "subject": "Mobile Web Application Development",
+      "dueDate": "2026-06-27",
+      "status": "pending",
+      "id": "s4DjzcBPJ_0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
